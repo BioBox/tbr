@@ -16,8 +16,3 @@ Finally you can just open a command line in true-bitrate folder and run:
 
 `true-bitrate "my-file.mp3"`
 
-## Status
-
-`maintained`
-
-You might want to buy me a [hot chocolate ☕](https://paypal.me/dvorapa).
